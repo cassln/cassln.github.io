@@ -1,3 +1,0 @@
-[submodule "brainfuck"]
-	path = brainfuck
-	url = https://github.com/cassln/Brainfuck.js
